@@ -1,0 +1,18 @@
+
+    {
+        "cats":[
+            {
+                "id":1,
+                "name":"pushok",
+                "size":"70cm",
+                "weight":"10kg"
+            },
+            {
+                "id":2,
+                "name":"persik",
+                "size":"90cm",
+                "weight":"15kg"
+            }
+        ]
+        
+    }
